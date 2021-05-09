@@ -1,3 +1,9 @@
+## Grupo ##
+
+Adine Alves Pereira Filho
+
+Gabriel Pinheiro Teodoro
+
 ## Trabalho do código de Huffman ##
 
 Após clonar o repositório:
