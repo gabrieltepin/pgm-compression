@@ -4,6 +4,8 @@ Adine Alves Pereira Filho
 
 Gabriel Pinheiro Teodoro
 
+Milena Mayara Ruy
+
 ## Trabalho do código de Huffman ##
 
 Após clonar o repositório:
